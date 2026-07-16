@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
