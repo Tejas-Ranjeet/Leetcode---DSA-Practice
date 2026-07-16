@@ -1,25 +1,6 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        
-        // int x = stoi(s);
-
-        // int thousand = x / 1000;
-        // x % 1000;
-
-        // int five_Hundred = x / 500;
-        // x % 500;
-
-        // int hundred = x / 100;
-        // x % 100;
-
-        // int fifty = x / 50;
-        // x % 50;
-
-        // int ten = x / 10;
-        // x % 10
-
-        // int one = x;
 
     unordered_map<char,int> mp;
 
@@ -35,38 +16,14 @@ public:
 
     for(int i = 0; i < s.length(); i++){
 
-        if(s[i] == 'I' && s[i+1] == 'V'){
-            sum = sum + 4;
-            i+= 1;
-        }
-        else if(s[i] == 'I' && s[i+1] == 'X'){
-            sum = sum + 9;
-            i+= 1;
-        }
-        else if(s[i] == 'X' && s[i+1] == 'L'){
-            sum = sum + 40;
-            i+= 1;
-        }
-        else if(s[i] == 'X' && s[i+1] == 'C'){
-            sum = sum + 90;
-            i+= 1;
-        }
-        else if(s[i] == 'C' && s[i+1] == 'D'){
-            sum = sum + 400;
-            i+= 1;
-        }
-        else if(s[i] == 'C' && s[i+1] == 'M'){
-            sum = sum + 900;
-            i+= 1;
+        if(i + 1 < s.length() && mp[s[i]] < mp[s[i+1]]){
+            sum -= mp[s[i]];
         }
         else{
-            sum = sum + mp[s[i]];
+            sum += mp[s[i]];
         }
-
-
     }
     return sum;
-
-
+        
     }
 };
