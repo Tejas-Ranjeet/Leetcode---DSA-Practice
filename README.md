@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
