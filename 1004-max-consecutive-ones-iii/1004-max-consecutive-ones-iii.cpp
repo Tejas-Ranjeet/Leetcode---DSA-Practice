@@ -9,27 +9,62 @@ public:
         int zeros = 0;
 
         while(right < nums.size()){
-
             if(nums[right] == 0){
                 zeros++;
             }
-
-            while(zeros > k){
+            if(zeros > k){
                 if(nums[left] == 0){
                     zeros--;
                 }
                 left++;
             }
-
             if(zeros <= k){
                 length = right - left + 1;
-                max_length = max(length, max_length);
+                max_length = max(length,max_length);
             }
             right++;
         }
         return max_length;
     }
 };
+
+
+
+
+// class Solution {
+// public:
+//     int longestOnes(vector<int>& nums, int k) {
+        
+//         int length = 0;
+//         int max_length = 0;
+//         int left = 0;
+//         int right = 0;
+//         int zeros = 0;
+
+//         while(right < nums.size()){
+
+//             if(nums[right] == 0){
+//                 zeros++;
+//             }
+
+//             while(zeros > k){
+//                 if(nums[left] == 0){
+//                     zeros--;
+//                 }
+//                 left++;
+//             }
+
+//             if(zeros <= k){
+//                 length = right - left + 1;
+//                 max_length = max(length, max_length);
+//             }
+//             right++;
+//         }
+//         return max_length;
+//     }
+// };
+
+
 
 
 
