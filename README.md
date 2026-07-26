@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
