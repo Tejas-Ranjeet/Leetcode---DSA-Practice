@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
