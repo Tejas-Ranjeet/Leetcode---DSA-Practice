@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |
