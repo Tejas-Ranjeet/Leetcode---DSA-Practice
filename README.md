@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0067-add-binary) |
 | [1492-the-kth-factor-of-n](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
