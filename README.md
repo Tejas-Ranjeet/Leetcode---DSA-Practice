@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
