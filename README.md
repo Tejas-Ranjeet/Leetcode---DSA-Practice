@@ -193,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [1667-fix-names-in-a-table](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
