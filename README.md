@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2574-left-and-right-sum-differences](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
 |  |
 | ------- |
