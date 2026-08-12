@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Trie
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Heap (Priority Queue)
 |  |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1148-article-views-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1148-article-views-i) |
 | [1667-fix-names-in-a-table](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
