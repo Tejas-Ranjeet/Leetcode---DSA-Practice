@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
