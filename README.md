@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
