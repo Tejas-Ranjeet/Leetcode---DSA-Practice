@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
