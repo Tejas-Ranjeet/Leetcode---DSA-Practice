@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
