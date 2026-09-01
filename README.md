@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0696-count-binary-substrings](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
