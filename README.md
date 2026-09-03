@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
