@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Counting
 |  |
 | ------- |
