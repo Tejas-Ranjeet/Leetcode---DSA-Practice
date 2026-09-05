@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 ## Bit Manipulation
 |  |
 | ------- |
