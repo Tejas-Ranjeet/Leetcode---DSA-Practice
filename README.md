@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
