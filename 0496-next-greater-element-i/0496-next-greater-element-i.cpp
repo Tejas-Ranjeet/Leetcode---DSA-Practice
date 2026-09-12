@@ -5,7 +5,7 @@ public:
         unordered_map<int, int> mp;
         stack<int> st;
 
-        // Find next greater element for every element in nums2
+       
         for (int num : nums2) {
             
             while (!st.empty() && num > st.top()) {
@@ -16,7 +16,6 @@ public:
             st.push(num);
         }
 
-        // Elements remaining in stack have no greater element
         while (!st.empty()) {
             mp[st.top()] = -1;
             st.pop();
