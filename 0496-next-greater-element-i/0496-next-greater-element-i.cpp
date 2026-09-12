@@ -21,7 +21,6 @@ public:
             st.pop();
         }
 
-        // Build answer for nums1
         vector<int> ans;
 
         for (int num : nums1) {
