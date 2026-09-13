@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
