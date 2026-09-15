@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0806-number-of-lines-to-write-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0771-jewels-and-stones) |
+| [0806-number-of-lines-to-write-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
