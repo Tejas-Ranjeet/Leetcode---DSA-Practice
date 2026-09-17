@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0506-relative-ranks) |
 | [0806-number-of-lines-to-write-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
