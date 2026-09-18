@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0942-di-string-match](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0942-di-string-match) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0806-number-of-lines-to-write-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0942-di-string-match](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0942-di-string-match) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Hash Table
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0942-di-string-match) |
 ## Bit Manipulation
 |  |
 | ------- |
