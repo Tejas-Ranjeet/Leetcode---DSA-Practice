@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0506-relative-ranks) |
+| [0682-baseball-game](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Tejas-Ranjeet/Leetcode---DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
